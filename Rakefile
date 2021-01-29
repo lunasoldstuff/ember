@@ -11,7 +11,10 @@ RuboCop::RakeTask.new
 
 require 'rake/extensiontask'
 
-task build: :compile
+desc 'build the thing'
+task :build do
+  compile
+end
 
 Rake::ExtensionTask.new('ember') do |ext|
   ext.lib_dir = 'lib/ember'
