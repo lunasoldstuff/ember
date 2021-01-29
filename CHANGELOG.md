@@ -6,7 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.0.1] - 2014-05-31
+### Changed
+- Fixed invalid date in `CHANGELOG.md` for version `v0.0.1`
+
+## [0.0.1] - 2021-01-29
 ### Added
 - The base project created by `bundle gem`
 
