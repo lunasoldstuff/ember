@@ -1,0 +1,19 @@
+{
+  "name": "ember",
+  "version": "0.0.1",
+  "description": "An open-source Matrix server written in Ruby",
+  "main": "index.js",
+  "authors": {
+    "name": "lunaisnotaboy",
+    "email": "yo@themintfarm.ml"
+  },
+  "repository": "https://devel.themintfarm.ml/themintfarm/ember/ember",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
