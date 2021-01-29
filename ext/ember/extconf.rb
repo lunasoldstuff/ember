@@ -1,5 +1,5 @@
 # frozen_string_literal: true
 
-require "mkmf"
+require 'mkmf'
 
-create_makefile("ember/ember")
+create_makefile('ember/ember')
