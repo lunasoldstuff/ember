@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = ['her@mint.lgbt']
 
   spec.summary       = 'Open-source Matrix server written in Ruby'
-  spec.homepage      = 'https://devel.themintfarm.ml/themintfarm/ember'
+  spec.homepage      = 'https://ember.themintfarm.ml'
   spec.license       = 'MIT'
   spec.required_ruby_version = Gem::Requirement.new('>= 2.4.0')
 

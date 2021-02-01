@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix changelog URL in `ember.gemspec`
 - Temporarily fix CI errors
 - Replace all double-quotes in Ruby files with single-quotes
+- Replace GitLab URL with website in gemspec
 
 ## [0.0.1] - 2021-01-29
 ### Added
